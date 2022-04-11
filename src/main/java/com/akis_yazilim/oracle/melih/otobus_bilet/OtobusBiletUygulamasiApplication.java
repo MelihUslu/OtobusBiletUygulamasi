@@ -10,6 +10,11 @@ import org.springframework.context.annotation.Bean;
 
 import javax.faces.webapp.FacesServlet;
 
+/*
+
+baslatici sinif
+ */
+
 @SpringBootApplication
 public class OtobusBiletUygulamasiApplication
 {
